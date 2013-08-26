@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress Referral is a very useful plugin that extends your WordPress website with a very effective referral system.
+WordPress Referral is a very useful plugin that extends your website or blog with a very effective referral system.
 
 == Description ==
 
@@ -25,6 +25,8 @@ In premium version you'll get:
 * Statistical summaries
 * Built-in shortcodes
 
+You can find more details about the premium version at http://markessence.com/blog/demo/wp-referral/
+
 == Installation ==
 
 1. Extract all files from the wp-referral-light.zip archive (You can use WinZip, 7zip, unArchiver, etc. )
@@ -39,8 +41,8 @@ You have realtime stats, extended compatibility and extended settings in the pre
 
 == Screenshots ==
 
-1. Installation screenshot1.png.
-2. Users listing screenshot2.png.
+1. Installation 
+2. Users listing
 
 == Changelog ==
 
