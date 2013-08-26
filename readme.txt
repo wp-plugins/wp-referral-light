@@ -4,7 +4,7 @@ Donate link: http://markessence.com/
 Tags: referral, affiliate, plugin, wordpress
 Requires at least: 3.0.1
 Tested up to: 3.6
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,10 @@ You can find more details about the premium version at http://markessence.com/bl
 2. Upload wp-referral-light folder to the /wp-content/plugins/ directory
 3. Activate the plugin through the ‘Plugins’ menu in WordPress
 
+== Usage ==
+
+Adding [referral_link] shortcode to any of you pages or posts will give to your logged in user the referral link that he can share.
+
 == Frequently Asked Questions ==
 
 = Can I have realtime stats? =
@@ -45,6 +49,9 @@ You have realtime stats, extended compatibility and extended settings in the pre
 2. Users listing screenshot2.png.
 
 == Changelog ==
+
+= 1.1 =
+* Bug fixes.
 
 = 1.0 =
 * First release.
