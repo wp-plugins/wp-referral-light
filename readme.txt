@@ -23,7 +23,7 @@ In premium version you'll get:
 * Real-time reporting
 * Unlimited referrals, unlimited referred users
 * Statistical summaries
-* Built-in shortcodes (for referral links and banners)
+* Built-in shortcodes (for downline, referral links and banners)
 
 You can find more details about the premium version at http://markessence.com/blog/demo/wp-referral/
 
