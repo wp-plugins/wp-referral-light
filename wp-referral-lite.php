@@ -4,7 +4,7 @@ Plugin Name: WordPress Referral Lite
 Description: WordPress Referral Lite is a very useful plugin that extends your Wordpress website with a very effective referral system. You have an option to use cookies to track your website referrals. 
 Author: markessence
 Author URI: http://markessence.com
-Version: 1.0
+Version: 1.1
 */
 ob_start();
 
@@ -13,7 +13,7 @@ $ref = 0;
 $ref = (int)$_GET['ref'];
 if (isset($_GET['ref']) && !empty($_GET['ref']) && $_GET['ref'] != 0) {
 	$ref = (int)$_POST['ref'];
-	setcookie('ref',(int)$_GET['ref'],time()+60*60*24*30;
+	setcookie('ref',(int)$_GET['ref'],time()+60*60*24*30);
 }
 else if (isset($_COOKIE['ref']) && !empty($_COOKIE['ref']))
 $ref = (int)$_COOKIE['ref'];
@@ -86,6 +86,7 @@ function show_user_id_content($value, $column_name, $user_id) {
 function WP_Referral_link_shortcode( $atts ){
 	if ( is_user_logged_in() ) {
 		$html = "Your plain link is: ".site_url('/wp-login.php?action=register&ref=').get_current_user_id()."<br />";
+		$html .= '<p><small><em>Powered by <a href="http://markessence.com/blog/demo/wp-referral/" title="WordPress Referral Plugin" target="_blank" rel="external"> WordPress Referral Plugin</em></small></p>';
 		return $html;
 	}
 }
