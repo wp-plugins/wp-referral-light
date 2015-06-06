@@ -4,7 +4,7 @@ Donate link: http://markessence.com/
 Tags: referral, affiliate, plugin, wordpress
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,8 @@ WordPress Referral is a very useful plugin that extends your website or blog wit
 == Description ==
 
 WordPress Referral is a very useful plugin that extends your WordPress website with a very effective referral system.
+
+New from SCGC: SafeApp - https://safeapp.co
 
 Boost your website and your business with the only effective WordPress referral plugin on the web. Referral marketing relies on trust and personal relationships to drive sales.
 
@@ -27,8 +29,8 @@ In premium version you'll get:
 
 You can find more details about the premium version at http://markessence.com/blog/demo/wp-referral/
 
-Check out SafeApp - The Ultimate WordPress Security Plugin
-https://safeapp.co
+https://safeapp.co  - The Ultimate WordPress Security Plugin
+
 
 
 == Installation ==
