@@ -3,7 +3,7 @@ Contributors: markessence
 Donate link: http://markessence.com/
 Tags: referral, affiliate, plugin, wordpress
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,6 +26,10 @@ In premium version you'll get:
 * Built-in shortcodes (for downline, referral links and banners)
 
 You can find more details about the premium version at http://markessence.com/blog/demo/wp-referral/
+
+Check out SafeApp - The Ultimate WordPress Security Plugin
+https://safeapp.co
+
 
 == Installation ==
 
